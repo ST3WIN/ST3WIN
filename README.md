@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=ST3WIN)](https://github.com/ryo-ma/github-profile-trophy)
-Languages and tools.
+### Languages and tools.
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,apple,aws,bootstrap,c,discord,figma,firebase,git,github,java,mongodb,mysql,nginx,nodejs,npm,postgres,postman,react,ts,vscode)](https://skillicons.dev)
 ![Stewin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ST3WIN&theme=dark&show_icons=true)
