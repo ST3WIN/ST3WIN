@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=ST3WIN)](https://github.com/ryo-ma/github-profile-trophy)
+Languages and tools.
+![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm
