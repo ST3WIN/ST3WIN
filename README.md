@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,apple,aws,bootstrap,c,discord,figma,firebase,git,github,java,mongodb,mysql,nginx,nodejs,npm,postgres,postman,react,ts,vscode)](https://skillicons.dev)
 <br>
 <br>
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ST3WIN&layout=compact)
-[Stewin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ST3WIN&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ST3WIN&layout=compact)
+[![Stewin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ST3WIN&theme=dark&show_icons=true)
