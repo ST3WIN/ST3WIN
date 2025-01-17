@@ -5,7 +5,12 @@
        style="width: 300px; max-width: 100%; height: auto;" 
        alt="Centered GIF">
 </div>
+<br>
+### About me
+I'm a Computer Science graduate with a strong foundation in both frontend and backend development. I have hands-on experience working with technologies like Node.js, Express, MongoDB, and React, allowing me to build dynamic, full-stack web applications. My technical toolkit also includes proficiency in programming languages like Javascript, C, Java, and Python.
 
+With a passion for creating seamless user experiences and robust backend architectures, I aim to continue learning and applying my skills in innovative and challenging projects. I'm always open to opportunities where I can contribute, grow, and collaborate with like-minded professionals.
+#
 [![trophy](https://github-profile-trophy.vercel.app/?username=ST3WIN)](https://github.com/ryo-ma/github-profile-trophy)
 #
 ### Languages and tools.🚀
