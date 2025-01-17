@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=ST3WIN)](https://github.com/ryo-ma/github-profile-trophy)
 Languages and tools.
-![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
