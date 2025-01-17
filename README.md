@@ -11,10 +11,10 @@
 
 ### Social Links 📶
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stewinwilson) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_i_stevi_/) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
+#
 ### LeetCode💻
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Stewin_Wilson/)
 
-
+#
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ST3WIN&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ST3WIN&theme=default&show_icons=true)
