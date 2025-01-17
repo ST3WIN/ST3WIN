@@ -1,8 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=ST3WIN&color=brightgreen)
 ## Hi there,Im Stewin👋
-<div style="display:flex;
-            justify-content:center;">
-<img style="width:300px;" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" 
+       style="width: 300px; max-width: 100%; height: auto;" 
+       alt="Centered GIF">
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ST3WIN)](https://github.com/ryo-ma/github-profile-trophy)
