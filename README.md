@@ -5,7 +5,7 @@
        style="width: 300px; max-width: 100%; height: auto;" 
        alt="Centered GIF">
 </div>
-<br>
+
 ### About me
 I'm a Computer Science graduate with a strong foundation in both frontend and backend development. I have hands-on experience working with technologies like Node.js, Express, MongoDB, and React, allowing me to build dynamic, full-stack web applications. My technical toolkit also includes proficiency in programming languages like Javascript, C, Java, and Python.
 
